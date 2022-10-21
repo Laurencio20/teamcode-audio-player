@@ -15,12 +15,12 @@ const musics = [
     {
         name: "A Chillia Volvere",
         author: "Edwen Viera",
-        path: "./musics/Edwen Viera - A Chillia Volvere.mp3",
+        path: "./assets/musics/Edwen Viera - A Chillia Volvere.mp3",
     },
     {
         name: "Encantadora Chillia",
         author: "Cesar Lecca",
-        path: "./musics/Cesar Lecca - Encantadora Chillia.mp3",
+        path: "./assets/musics/Cesar Lecca - Encantadora Chillia.mp3",
     },
 ];
 
